@@ -17,4 +17,4 @@ console.log(sumOfFirstNNumbers(10));
 // }
 // console.log(sum)
 //time complexity -> O(n)
-//space complexity => O(1)s
+//space complexity => O(1)
