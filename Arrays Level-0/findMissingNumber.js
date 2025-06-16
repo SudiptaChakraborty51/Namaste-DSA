@@ -16,4 +16,4 @@ const arr = [9,6,4,2,3,5,7,0,1];
 console.log(findMissingNumber(arr));
 
 //time complexity -> O(n)
-//space complexity => O(1)
+//space complexity => O(n) (due to call stack in recursion)
