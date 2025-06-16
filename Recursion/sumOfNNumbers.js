@@ -6,3 +6,15 @@ const sumOfFirstNNumbers = (n) => {
 }
 
 console.log(sumOfFirstNNumbers(10));
+
+//time complexity -> O(n)
+//space complexity => O(n) (due to call stack in recursion)
+
+
+// let sum = 0;
+// for (let i = n; i > 0; i--) {
+//     sum = sum + i;
+// }
+// console.log(sum)
+//time complexity -> O(n)
+//space complexity => O(1)s
